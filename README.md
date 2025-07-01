@@ -8,20 +8,28 @@ Além disso, conto com o apoio do **ChatGPT** para aprofundar explicações, esc
 📚 Tópicos estudados
 
 ✅ Variáveis e Operadores
+
 ✅ Tipos de Dados (int, float, string, boolean)
-✅ Conversão de tipos
-✅ Listas, Tuplas e Dicionários
-✅ Uso de aspas triplas e quebra de linhas
-✅ Condições (`if`, `elif`, `else`)
+
+✅ Conversão de tipos.
+
+✅ Listas, Tuplas e Dicionários.
+
+✅ Uso de aspas triplas e quebra de linhas.
+
+✅ Condições (`if`, `elif`, `else`).
+
 ✅ Operadores lógicos: `and`, `or`
-✅ Laços de repetição: `for`, `while`
-✅ Funções auxiliares: `range()`, `enumerate()`
-✅ Controle de fluxo: `break`, `continue`
+
+✅ Laços de repetição: `for`, `while`.
+
+✅ Funções auxiliares: `range()`, `enumerate()`.
+
+✅ Controle de fluxo: `break`, `continue`.
 
 ---
 
 🗂 Estrutura dos arquivos
-
 Cada pasta ou arquivo representa um conjunto de exercícios ou exemplos de um tópico específico.
 Os nomes dos arquivos indicam o conteúdo abordado.
 
@@ -55,5 +63,6 @@ Com o tempo, pretendo evoluir para projetos maiores e aplicações mais completa
 📧 Contato
 
 Etelvino Joaquim
+
 etelvinojoaquim7@gmail.com
 
