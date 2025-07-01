@@ -1,4 +1,5 @@
 🐍 Python Fundamentos
+
 Estou a iniciar meus estudos em programação com a linguagem Python.
 Este repositório reúne os exercícios e exemplos que venho praticando para consolidar os conceitos fundamentais da linguagem.
 
