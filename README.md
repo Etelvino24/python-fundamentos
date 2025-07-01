@@ -36,27 +36,42 @@ Os nomes dos arquivos indicam o conteúdo abordado.
 
 /python-fundamentos
 ├── 01-variaveis-operadores/
-│   └── exercicio1.py
+
+   └── exercicio1.py
+
 
 ├── 02-tipos-dados/
-│   └── exemplos.py
+
+└── exemplos.py
+
 
 ├── 03-estruturas-dados/
-│   ├── listas.py
-│   ├── tuplas.py
-│   └── dicionarios.py
+   
+   ├── listas.py
+
+  ├── tuplas.py
+   
+  └── dicionarios.py
+
 
 ├── 04-condicionais/
-│   └── if-else.py
+   
+└── if-else.py
+
 
 ├── 05-lacos-repeticao/
-│   ├── for.py
-│   ├── while.py
-│   └── break-continue.py
+   
+   ├── for.py
+   
+   ├── while.py
+   
+   └── break-continue.py
+
 
 ├── 06-funcoes-auxiliares/
-│   └── range-enumerate.py
-└── README.md
+
+└── range-enumerate.py
+
 
 
 🚀 Objetivo
