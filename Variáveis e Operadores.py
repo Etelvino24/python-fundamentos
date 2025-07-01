@@ -2,7 +2,8 @@
 
 #VARIÁVEIS
 '''
-Variáveis são como métodos de armazenamento de valores (informação) dentro de um programa, ou seja, conteúdo/informação. Usamos Variáveis para guardar temporariamente.
+Variáveis são como métodos de armazenamento de valores (informação) dentro de um programa, ou seja, elas armazenam conteúdo/informação. 
+Usamos Variáveis para guardar valores temporariamente.
 valores (informação/conteúdo) que pretendemos utilizar. Para guardar uma informação primeiramente definimos as Variáveis, depois utilizamos
 um símbolo para atribuir o valor ou a informação/conteúdo e por fim descrevemos a informação que queremos guardar.
 exemplo prático.: nome = "Michel";
@@ -45,7 +46,7 @@ nome: variável;
 nome = "Etelvino Joaquim"
 meucachoro = "Winnie" 
 idade = 24
-morada = "Bairro Camama, Rua Nº5 Casa 3"
+morada = "Bairro Camama, Rua Nº 11"
 curso = "Contabilidade"
 altura = 1.85
 print("Nome Completo:", nome)
