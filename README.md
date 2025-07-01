@@ -11,21 +11,21 @@ Além disso, conto com o apoio do **ChatGPT** para aprofundar explicações, esc
 
 ✅ Tipos de Dados (int, float, string, boolean)
 
-✅ Conversão de tipos.
+✅ Conversão de tipos
 
-✅ Listas, Tuplas e Dicionários.
+✅ Listas, Tuplas e Dicionários
 
-✅ Uso de aspas triplas e quebra de linhas.
+✅ Uso de aspas triplas e quebra de linhas
 
-✅ Condições (`if`, `elif`, `else`).
+✅ Condições (`if`, `elif`, `else`)
 
 ✅ Operadores lógicos: `and`, `or`
 
-✅ Laços de repetição: `for`, `while`.
+✅ Laços de repetição: `for`, `while`
 
-✅ Funções auxiliares: `range()`, `enumerate()`.
+✅ Funções auxiliares: `range()`, `enumerate()`
 
-✅ Controle de fluxo: `break`, `continue`.
+✅ Controle de fluxo: `break`, `continue`
 
 ---
 
@@ -37,18 +37,23 @@ Os nomes dos arquivos indicam o conteúdo abordado.
 /python-fundamentos
 ├── 01-variaveis-operadores/
 │   └── exercicio1.py
+
 ├── 02-tipos-dados/
 │   └── exemplos.py
+
 ├── 03-estruturas-dados/
 │   ├── listas.py
 │   ├── tuplas.py
 │   └── dicionarios.py
+
 ├── 04-condicionais/
 │   └── if-else.py
+
 ├── 05-lacos-repeticao/
 │   ├── for.py
 │   ├── while.py
 │   └── break-continue.py
+
 ├── 06-funcoes-auxiliares/
 │   └── range-enumerate.py
 └── README.md
